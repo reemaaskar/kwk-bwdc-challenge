@@ -1,9 +1,9 @@
 {
-  "name": "kwk-scrollytelling-template",
+  "name": "kwk-bwdc-challenge",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jasminesamra.github.io/kwk-scrollytelling-template",
+  "homepage": "https://reemaaskar.github.io/kwk-bwdc-challenge",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
