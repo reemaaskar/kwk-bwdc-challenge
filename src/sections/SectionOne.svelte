@@ -30,7 +30,6 @@
     <div class="arrow" class:bounce={showH2}>
       <img src="arrow.png" alt="arrow" />
     </div>
-    
   </div>
 </section>
 
@@ -50,7 +49,7 @@
     left: 0;
     width: 100%;
     height: 100vh;
-    background-image: url("/public/Into Image.jpg");
+    background-image: url("/public/Intro Image.jpg");
     background-size: cover;
     background-position: center;
     z-index: -1;

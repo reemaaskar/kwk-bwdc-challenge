@@ -10,7 +10,7 @@
   import SectionNine from "./sections/SectionNine.svelte";
   import SectionTen from "./sections/SectionTen.svelte";
   import SectionEleven from "./sections/SectionEleven.svelte";
-  import SectionTwelve2 from "./sections/SectionTwelve2.svelte";
+  import SectionTwelve from "./sections/SectionTwelve.svelte";
   import SectionThirteen from "./sections/SectionThirteen.svelte";
 </script>
 
@@ -26,6 +26,6 @@
   <SectionNine/>
   <SectionTen/>
   <SectionEleven/>
-  <SectionTwelve2/>
+  <SectionTwelve/>
   <SectionThirteen />
 </main>
