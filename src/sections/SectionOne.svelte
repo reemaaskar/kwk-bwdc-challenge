@@ -49,7 +49,7 @@
     left: 0;
     width: 100%;
     height: 100vh;
-    background-image: url("/public/Intro Image.jpg");
+    background-image: url("/public/Intro_Image.jpg");
     background-size: cover;
     background-position: center;
     z-index: -1;
