@@ -1,22 +1,32 @@
-# KWK Scrollytelling template
+## README & Credits
+This project was developed for the KWK x BWDC Scrollytelling Challenge to explore how digital access and opportunity impact Black communities across the U.S. Through data storytelling, animated visuals, and web interactivity, it aims to make complex disparities more understandable, and more actionable.
 
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
+## Sources & Data
+All figures and insights are based on verified sources including:
 
-## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
+- Pew Research Center
+- U.S. Census Bureau
+- National Science Foundation
+- OECD (2020)
+- National Skills Coalition
+- Bureau of Labor Statistics
+- McKinsey & Company
+- Black Wealth Data Center
+- Direct references and citations are provided next to each visual or quote.
 
-## Recommended IDE Setup
+## Imagery
+Photos of people of colour in tech: by Christina Morillo, via Pexels
+Wi-Fi tower image: by Jan Huber, via Unsplash
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+## Code & Web Development Tools
+Hover definitions: Code adapted from Imran Siddiq – Web Squadron
 
-## How to clone the repo
-On this repo's homepage in GitHub, click the `Use this template` button. Select the option to create a new repository. This will create a new repo under your GitHub account.
+Scroll-triggered animations: Based on the video "Effortlessly Create Scroll Animations with the Intersection Observer API"
 
-Navigate to your new copy of this template in your GitHub profile. 
+Scrollytelling structure: Adapted from Jasmine Samra’s open-source template for the KWK x BWDC challenge
 
-Clone your new repo locally and `cd` into it. 
+Chart creation: Highcharts used for interactive visualisations. Chart configuration (e.g., stacking/grouping) was refined using scripting support and data formatting tools to streamline development.
 
-Run `npm install` and then `npm run dev` to spin up the project locally. Then, start making changes! You can use this repo as a starting point for your own final project or simply as an example. 
+## Narrative Refinement & Debugging Support
+Refinements to narrative flow and visual storytelling were made with the help of AI (ChatGPT-4), used sparingly to polish phrasing, clarify transitions, and support unfamiliar coding issues during development. All content was written with original intent and voice, and reviewed for factual accuracy and relevance to sourced research.
 
-## Credit
-Repo created using vite (`npm create vite@6`)

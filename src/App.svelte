@@ -1,28 +1,31 @@
 <script>
-  import IntroSection from "./sections/IntroSection.svelte";
+  import SectionOne from "./sections/SectionOne.svelte";
   import SectionTwo from "./sections/SectionTwo.svelte";
   import SectionThree from "./sections/SectionThree.svelte";
-  import LeftAlignedExample from "./sections/LeftAlignedExample.svelte";
-  import RightAlignedExample from "./sections/RightAlignedExample.svelte";
-  import ImageExample from "./sections/ImageExample.svelte";
-  import InteresectionObserverBasicExample from "./sections/InteresectionObserverBasicExample.svelte";
-  import IntersectionObserverAlertExample from "./sections/IntersectionObserverAlertExample.svelte";
-  import DisappearingDuckExample from "./sections/DisappearingDuckExample.svelte";
-  import IntersectionObserverSectionCard from "./sections/IntersectionObserverSectionCard.svelte";
-  import IntersectionObserverListExample from "./sections/IntersectionObserverListExample.svelte";
+  import SectionFour from "./sections/SectionFour.svelte";
+  import SectionFive from "./sections/SectionFive.svelte";
+  import SectionSix from "./sections/SectionSix.svelte";
+  import SectionSeven from "./sections/SectionSeven.svelte";
+  import SectionEight from "./sections/SectionEight.svelte";
+  import SectionNine from "./sections/SectionNine.svelte";
+  import SectionTen from "./sections/SectionTen.svelte";
+  import SectionEleven from "./sections/SectionEleven.svelte";
+  import SectionTwelve2 from "./sections/SectionTwelve2.svelte";
+  import SectionThirteen from "./sections/SectionThirteen.svelte";
 </script>
 
 <main>
-  <IntroSection />
-  <SectionTwo/>
-  <SectionThree/>
-  <RightAlignedExample />
-  <LeftAlignedExample />
-  <ImageExample />
-
-  <IntersectionObserverSectionCard />
-  <InteresectionObserverBasicExample />
-  <IntersectionObserverAlertExample />
-  <DisappearingDuckExample />
-  <IntersectionObserverListExample />
+  <SectionOne />
+  <SectionTwo />
+  <SectionThree />
+  <SectionFour/>
+  <SectionFive />
+  <SectionSix />
+  <SectionSeven />
+  <SectionEight />
+  <SectionNine/>
+  <SectionTen/>
+  <SectionEleven/>
+  <SectionTwelve2/>
+  <SectionThirteen />
 </main>
